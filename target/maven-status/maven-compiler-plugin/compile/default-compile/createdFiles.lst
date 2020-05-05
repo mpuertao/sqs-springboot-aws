@@ -1,0 +1,3 @@
+com\sqs\colas\configuration\SQSConfiguration.class
+com\sqs\colas\ColasApplication.class
+com\sqs\colas\controller\SQSController.class
